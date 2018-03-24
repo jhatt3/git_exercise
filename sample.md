@@ -73,5 +73,7 @@ npm start
 <!-- tasks list -->
 
 *[x] task 1 <!--complete -->
+
 *[x] task 2
+
 *[ ] task 3 <!-- incomplete -->
